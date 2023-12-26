@@ -48,12 +48,12 @@
 
 ### Как оформить решение задания
 
-Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
+Выполненное домашнее задание приведитете в виде ссылки на .md-файл в вашем репозитории.
 
-https://github.com/015fanatik/lighthouse-role.git
+[LightHouse](https://github.com/015fanatik/lighthouse-role.git)
 
-https://github.com/015fanatik/vector-role.git
+[Vector](https://github.com/015fanatik/vector-role.git)
 
-https://github.com/015fanatik/playbook.git
+[PlayBook](https://github.com/015fanatik/playbook.git)
 
 ---
