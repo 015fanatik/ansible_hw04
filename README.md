@@ -50,4 +50,10 @@
 
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
+https://github.com/015fanatik/lighthouse-role.git
+
+https://github.com/015fanatik/vector-role.git
+
+https://github.com/015fanatik/playbook.git
+
 ---
